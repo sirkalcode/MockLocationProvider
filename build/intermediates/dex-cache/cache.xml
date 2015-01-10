@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sirsingandla\AndroidStudioProjects\LocationProvider1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="C:\Users\sirsingandla\AndroidStudioProjects\LocationProvider1\app\build\intermediates\pre-dexed\debug\classes-fe88d9e08e2bef6b24746b55aa2b3aad609737d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\sirsingandla\AndroidStudioProjects\LocationProvider1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\sirsingandla\AndroidStudioProjects\LocationProvider1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-098c84d6e0014fce39c6dcd1bd72951d21c268b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\sirsingandla\AndroidStudioProjects\LocationProvider1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\sirsingandla\AndroidStudioProjects\LocationProvider1\app\build\intermediates\pre-dexed\debug\classes-a39135624348691e55097010a5ef3af74389c22b.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android_SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\sirsingandla\AndroidStudioProjects\LocationProvider1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c6f899ea3dc6f83f53550475859e174b2fa066d6.jar" />
+    </item>
+
+</items>
